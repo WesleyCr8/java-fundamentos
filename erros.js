@@ -1,0 +1,1 @@
+//na aula foi explicado alguns tipos de erros e como identificar
